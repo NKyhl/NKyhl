@@ -1,8 +1,8 @@
 ## Hi 👋
 
-My name is Nolan, and I'm a senior at Notre Dame studying Computer Science.
+My name is Nolan, and Notre Dame Computer Science alum working as a Consultant at Pariveda in Chicago.
 
-I like to create human-centered software and pursue these skills:
+I'm passionate about creating human-centered software and pursuing excellence through four main skills:
 
 1) Deep technical knowledge
 2) An eye for design
