@@ -7,7 +7,7 @@ I'm passionate about creating human-centered software and pursuing excellence th
 1) Deep technical knowledge
 2) An eye for design
 3) Business understanding
-4) Collaboration
+4) Effective Collaboration
 
 Reach out if you'd like to work on a project together! (nolan@kyhl.com)
 
